@@ -1,1 +1,2 @@
 # odin-recipes
+This project is made to test my understanding of html basics such as working with text, links, images and lists. This project also is also useful to develop muscle memory in order to leaern file structure and organisation, I had to organise my files into corresponding directories, this definitely helped me because in the beginning I had my images in one file but then I realised with more recipes and more pictures it becomes a mess so I had to create an image directory for each recipe.
