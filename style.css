@@ -1,0 +1,70 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Index*/
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+
+.drink{
+    margin-left: 725px;
+}
+
+/*Cucumber Mojito*/
+.drink_img{
+    display: block;
+    margin: auto;
+    width: 10%;
+}
+
+h3{
+    text-align: center;
+}
+
+.ingredients{
+    text-align: left;
+}
+
+h4{
+    text-align: center;
+}
+
+/*Beef Stroganoff*/
+.beef_stroganoff_img{
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+
+.stroganoff_example{
+    display:block;
+    margin: auto;
+    width: 18%;
+}
+
+p{
+    text-align: center;
+}
+
+/*Desert*/
+.apple_pie_img{
+    display: block;
+    margin:auto;
+    width: 20%;
+}
+
+.pie_example{
+    display: block;
+    margin: auto;
+    width: 18%;
+}
+
+
+
+
+
+
